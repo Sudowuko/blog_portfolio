@@ -25,8 +25,9 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      <Seo title="Home" />
       <Bio />
+      <p><h2><strong> About Me</strong></h2></p>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
@@ -59,6 +60,13 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
+      <h6>Contact Me: </h6>
+      <a href="https://www.linkedin.com/in/josephnicolas/"> 
+        <img src="../images/linkedin.png"></img>
+      </a>
+      <a href="https://www.google.com/"> 
+        <img src="../images/linkedin.png"></img>
+      </a>
     </Layout>
   )
 }

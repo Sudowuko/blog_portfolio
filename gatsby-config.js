@@ -1,14 +1,17 @@
 module.exports = {
     siteMetadata: {
-        title: `Gatsby Starter Blog`,
+        title: `Blog and Portfolio`,
         author: {
             name: `Joseph Nicolas`,
-            summary: `who lives and works in San Francisco building useful things.`,
+            summary: `a Waterloo Student who has passionate interests and creative endeavours.`,
         },
         description: `A starter blog.`,
         siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
         social: {
-            twitter: `kylemathews`,
+            linkedin: `josephnicolas`,
+            email: 'josephnicolas10@gmail.com',
+            phone: '416-823-8714',
+            github: 'Sudowuko'
         },
     },
     plugins: [
