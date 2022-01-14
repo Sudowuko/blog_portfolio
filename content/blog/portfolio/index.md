@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-date: "2022-01-10T22:40:32.169Z"
 description: Using my experiences I've learned throughout University, I'll dive a little bit into how I manage my day and also some productivity techniques I really enjoy using.
 ---
 

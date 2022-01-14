@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Navbar from "../components/navbar"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -12,8 +13,9 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Navbar></Navbar>
       <Seo
-        title={post.frontmatter.title}
+        
         description={post.frontmatter.description || post.excerpt}
       />
       <article
