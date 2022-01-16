@@ -8,8 +8,7 @@ import Navbar from "../components/navbar"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
+  const posts = data.allMarkdownRemark.nodes.filter(post=>{return post.frontmatter.category === "Productivity"})
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
@@ -23,6 +22,8 @@ const BlogIndex = ({ data, location }) => {
     )
   }
 
+  
+
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Home" />
@@ -30,7 +31,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+          const title = (post.frontmatter.title || post.fields.slug)
 
           return (
             <li key={post.fields.slug}>
@@ -45,6 +46,7 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
+                  <small>{post.frontmatter.category}</small><br></br>
                   <small>{post.frontmatter.date}</small>
                 </header>
                 <section>
@@ -83,6 +85,8 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          category
+          
         }
       }
     }

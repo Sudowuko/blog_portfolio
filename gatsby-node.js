@@ -8,23 +8,23 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
 
   // Get all markdown blog posts sorted by date
-  const {
-    data: { allMarkdownRemark },
-  } = await graphql(`
-    query {
-      allMarkdownRemark {
-        edges {
-          node {
+  const result = await graphql(
+    `
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: ASC }
+          limit: 1000
+        ) {
+          nodes {
             id
-            frontmatter {
-              categories
+            fields {
               slug
             }
           }
         }
       }
-    }
-  `)
+    `
+  )
 
   if (result.errors) {
     reporter.panicOnBuild(
@@ -106,6 +106,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      category: String
     }
 
     type Fields {
@@ -113,37 +114,3 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
-
-
-function dedupeCategories(allMarkdownRemark) {
-  const uniqueCategories = new Set()
-  // Iterate over all articles
-  allMarkdownRemark.edges.forEach(({ node }) => {
-    // Iterate over each category in an article
-    node.frontmatter.categories.forEach(category => {
-      uniqueCategories.add(category)
-    })
-  })
-  // Create new array with duplicates removed
-  return Array.from(uniqueCategories)
-}
-
-const dedupedCategories = dedupeCategories(allMarkdownRemark)
-// Iterate over categories and create page for each
-dedupedCategories.forEach(category => {
-  reporter.info(`Creating page: category/${category}`)
-  createPage({
-    path: `category/${category}`,
-    component: require.resolve("./src/templates/blog-post.js"),
-    // Create props for our CategoryList.js component
-    context: {
-      category,
-      // Create an array of ids of articles in this category
-      ids: allMarkdownRemark.edges
-        .filter(({ node }) => {
-          return node.frontmatter.categories.includes(category)
-        })
-        .map(({node}) => node.id),
-    },
-  })
-})

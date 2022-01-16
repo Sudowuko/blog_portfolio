@@ -2,7 +2,7 @@
 title: Hello World
 date: "2017-05-01T22:12:03.284Z"
 description: "Hello World"
-categories: ["Resources"]
+category: "Resources"
 slug: hello-world
 ---
 

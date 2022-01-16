@@ -51,10 +51,8 @@ module.exports = {
                 ],
             },
         },
-        `gatsby-transformer-remark`,
         `gatsby-transformer-sharp`,
         `gatsby-plugin-sharp`,
-
         // {
         //   resolve: `gatsby-plugin-google-analytics`,
         //   options: {
@@ -82,9 +80,11 @@ module.exports = {
                             return Object.assign({}, node.frontmatter, {
                                 description: node.excerpt,
                                 date: node.frontmatter.date,
+                                category: node.frontmatter.category,
                                 url: site.siteMetadata.siteUrl + node.fields.slug,
                                 guid: site.siteMetadata.siteUrl + node.fields.slug,
                                 custom_elements: [{ "content:encoded": node.html }],
+
                             })
                         })
                     },
@@ -102,6 +102,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      category
                     }
                   }
                 }
