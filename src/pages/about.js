@@ -2,10 +2,12 @@ import * as React from 'react'
 import Navbar from '../components/navbar'
 import Layout from '../components/layout'
 import Bio from '../components/bio'
-// Step 2: Define your component
+import Seo from '../components/seo'
+
 const about = ({location}) => {
   return (
     <Layout location={location}>
+      <Seo title="About Me" />
       <Navbar />
       <h2>About Me</h2>
       <p>Hi there! Here is my skills and experiences TBD.</p>
@@ -14,5 +16,5 @@ const about = ({location}) => {
     
   )
 }
-// Step 3: Export your component
+
 export default about

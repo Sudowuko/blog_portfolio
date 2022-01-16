@@ -1,6 +1,8 @@
 ---
 title: Portfolio
 description: Using my experiences I've learned throughout University, I'll dive a little bit into how I manage my day and also some productivity techniques I really enjoy using.
+category: ["About"]
+slug: portfolio
 ---
 
 ##### Summary of Qualifications
