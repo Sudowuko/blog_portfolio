@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/books/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Blog and Portfolio"}},"markdownRemark":{"id":"5bd3c2e6-c9d3-5a88-a731-f5a37374102d","excerpt":"Coming Soon","html":"<p>Coming Soon</p>","frontmatter":{"title":"Books","date":null,"description":"Books that changed my life (COMING SOON)","category":"Resources"}},"previous":null,"next":{"fields":{"slug":"/mobile-apps/"},"frontmatter":{"title":"Mobile Apps","category":"Resources"}}},"pageContext":{"id":"5bd3c2e6-c9d3-5a88-a731-f5a37374102d","previousPostId":null,"nextPostId":"69e1176e-54ca-5974-af45-45b4b9806abe"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

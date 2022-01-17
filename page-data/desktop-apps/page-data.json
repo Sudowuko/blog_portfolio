@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/desktop-apps/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Blog and Portfolio"}},"markdownRemark":{"id":"30b4596a-ddb8-5692-a6cf-50e303042123","excerpt":"Coming Soon","html":"<p>Coming Soon</p>","frontmatter":{"title":"Desktop Apps","date":null,"description":"Computer apps and websites that I love using on an everyday basis (COMING SOON)","category":"Resources"}},"previous":{"fields":{"slug":"/mobile-apps/"},"frontmatter":{"title":"Mobile Apps","category":"Resources"}},"next":null},"pageContext":{"id":"30b4596a-ddb8-5692-a6cf-50e303042123","previousPostId":"69e1176e-54ca-5974-af45-45b4b9806abe","nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
