@@ -31,6 +31,7 @@ const BlogIndex = ({ location, data }) => {
       ➡️ Improving my typing speed ⌨
       <br></br>
       <br></br>
+      <hr />
       <br></br>
       <Bio />
     </Layout>

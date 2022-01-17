@@ -23,7 +23,7 @@ By doing this, my motivation has increased substantially which allows me to get 
 
 Oftentimes, by having someone who can always keep you accountable, that helps motivate you to keep the work you need. On a daily or weekly basis, an accountability partner can be someone who talks to you about what your goals are and then check up on you after a certain period of time to see how you're doing. 
 
-Now I know that someone will check up on me, it essentially forces me to do my work.  Unless I had a valid excuse, it is often pretty painful to say that I didn't finish what I wanted and it's even worst if it because I was just lazy. I don't want to tell them I did nothing because I was lazy as that would be letting them down.
+Now I know that someone will check up on me, it essentially forces me to do my work.  Unless I had a valid excuse, it is often pretty painful to say that I didn't finish what I wanted and it's even worse if it because of laziness. I don't want to tell them I did nothing because I was lazy as that would be letting them down.
 
 3. Shared Habit Trackers
 

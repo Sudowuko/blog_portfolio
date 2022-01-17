@@ -50,11 +50,15 @@ const CategoryIndex = ({ data, location, posts, category }) => {
                     }}
                     itemProp="description"
                   />
+                   <br></br>
                 </section>
               </article>
+              
             </li>
+           
           )
         })}
+        <hr />
       </ol>
       <Bio />
     </Layout>

@@ -62,6 +62,7 @@ const BlogPostTemplate = ({data, location}) => {
           </li>
         </ul>
       </nav>
+      <br></br>
     </Layout>
   )
 }
