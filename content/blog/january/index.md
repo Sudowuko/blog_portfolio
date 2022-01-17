@@ -12,7 +12,7 @@ category: "Gratitude"
 
 ### January 1
 
-1. As it was the start of 2022 I got to have an amazing discussion with my family. We got to essentially reflect on how 2021 has been for each of us and it opened room for conservations we usually don't get to have.
+1. As it was the start of 2022, I got to have an amazing discussion with my family. We got to essentially reflect on how 2021 has been for each of us and it opened room for conservations we usually don't get to have.
 2. Made my new years resolution to start off the year strong.
 3. Updated my monthly habit tracker to make sure it corresponds with my New Years Goals.
 
@@ -31,7 +31,7 @@ category: "Gratitude"
 ### January 4
 
 1. I woke up at 6am today! I finally fixed my sleep schedule and starting the day in the morning substantially increased my productivity
-2. My mom needed some help with her business and I was able to help lessen her load by doing data entry. 
+2. My mom had a high workload for her immigration business and I was able to help lessen her load by doing data entry. 
 3. Got in my exercise for the day which was cardio.
 
 ### January 5
@@ -98,7 +98,7 @@ category: "Gratitude"
 
 1. I managed to enter a state of deep focus for 6 hours today. I blocked every single app and web application that distracted me and all that was left for me was just work. 
 2. I also had lots of fun playing osu today as I can tell that I'm getting better at the game. 
-3. I had a call with a longtime friend whom I haven't spoken to for a couple of months. We got to catch up on life, have meaningful conversations, and overall just a good time. 
+3. I had a call with a long-time friend whom I haven't spoken to for a couple of months. We got to catch up on life, have meaningful conversations, and overall just a good time. 
 
 ### January 16
 
