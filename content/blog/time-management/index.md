@@ -3,14 +3,13 @@ title: Time Management Tips
 date: "2022-01-10T22:40:32.169Z"
 description: Using my experiences I've learned throughout University, I'll dive a little bit into how I manage my day and also some productivity techniques I really enjoy using.
 category: "Productivity"
-slug: time-management-tips
 ---
 
 1. Shared Google Calendar
 
 This is my favourite time management tool and I would say it was pretty life changing. So my friends and I came up with this idea where we created a google calendar where we put in tasks that we really want to get done. 
 
-For each task in our calendar, we always check up with each other to see how we are doing and that the task actually gets completed. By knowing that my friends are going to message me, it makes me feel pretty motivated because I don't want to let them down. To make sure this is sustainable, we made a rule where we can only put 1 to 2 tasks per day because if it's too time consuming no one would want to do it. Due to the limited the number of tasks, we often use it to put our daily highlights there. 
+For each task in our calendar, we always check up with each other to see how we are doing and that the task actually gets completed. By knowing that my friends are going to message me, it makes me feel pretty motivated and since it's my friends I don't want to let them down. To make sure this is sustainable, we made a rule where we can only put 1 to 2 tasks per day because if it's too time consuming no one would want to do it. Due to the limited the number of tasks, we often use it to put our daily highlights there. 
 
 2. Daily highlight
 

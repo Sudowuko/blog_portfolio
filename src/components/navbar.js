@@ -13,7 +13,6 @@ const Navbar = ({ pageTitle, children }) => {
         <nav>
           <ul className={navLinks}>
             <li className={navLinkItem}><Link to="/">Home</Link></li>
-            <li className={navLinkItem}><Link to="/about">About Me</Link></li>
             <li className={navLinkItem}><Link to="/productivity">Productivity</Link></li>
             <li className={navLinkItem}><Link to="/resources">Resources</Link></li>
             <li className={navLinkItem}><Link to="/gratitude">Gratitude</Link></li>

@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Navbar from "../components/navbar"
 
-const BlogPostTemplate = ({ data, location }) => {
+const BlogPostTemplate = ({data, location}) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
@@ -15,7 +15,7 @@ const BlogPostTemplate = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Navbar></Navbar>
       <Seo
-        
+        title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
       <article

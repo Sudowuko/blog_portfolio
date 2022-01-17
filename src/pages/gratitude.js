@@ -1,18 +1,40 @@
 import * as React from 'react'
-import Navbar from '../components/navbar'
-import Layout from '../components/layout'
-import Bio from '../components/bio'
-import Seo from '../components/seo'
+import { graphql } from 'gatsby'
+import CategoryList from '../components/category-list'
 
-const gratitude = ({location}) => {
+const GratitudeIndex = ({data, location}) => {
+  const posts = data.allMarkdownRemark.nodes.filter(post=>{return post.frontmatter.category === "Gratitude"})
+
   return (
-    <Layout location={location}>
-      <Seo title="Gratitude" />
-      <Navbar />
-      <h2>Gratitude</h2>
-      <Bio />
-    </Layout>
+    <main>
+        <CategoryList location={location} data={data} posts={posts} category={"Gratitude"}/>
+    </main>
+    
   )
 }
 
-export default gratitude
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
+          category
+        }
+      }
+    }
+  }
+`
+
+export default GratitudeIndex

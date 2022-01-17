@@ -44,14 +44,19 @@ const Bio = () => {
             />
             {author?.name && (
               <p>
-                Hello I'm <strong>{author.name}</strong> {author?.summary || null}
-                {` Contact me on `}
+                {author?.summary || null}
+                {`Feel free to follow me on `}
                 <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
-                  <p>Linkedin </p>
+                  Linkedin 
                 </a>
+                {' and '}
                 <a href={`https://github.com/${social?.Sudowuko || ``}`}>
-                 <p>Github</p>
+                 Github
                 </a>
+               {' '} or reach out through {' '}
+                <a href = "mailto: j2nicola@uwaterloo.ca">
+                  email.
+                  </a>
               </p>
             )}
           </div>

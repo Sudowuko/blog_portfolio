@@ -3,7 +3,7 @@ module.exports = {
         title: `Blog and Portfolio`,
         author: {
             name: `Joseph Nicolas`,
-            summary: `a Waterloo Student who has passionate interests and creative endeavours.`,
+            summary: `Thanks for visiting my website and I hope you enjoyed it! `,
         },
         description: `A starter blog.`,
         siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
