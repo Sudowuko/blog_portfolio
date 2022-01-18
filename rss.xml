@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Hi, I'm Joseph! 👋]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 16:19:54 GMT</lastBuildDate><item><title><![CDATA[Books]]></title><description><![CDATA[Coming Soon]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/books/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/books/</guid><content:encoded>&lt;p&gt;Coming Soon&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Desktop Apps]]></title><description><![CDATA[Coming Soon]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/desktop-apps/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/desktop-apps/</guid><content:encoded>&lt;p&gt;Coming Soon&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mobile Apps]]></title><description><![CDATA[Coming Soon]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/mobile-apps/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/mobile-apps/</guid><content:encoded>&lt;p&gt;Coming Soon&lt;/p&gt;</content:encoded></item><item><title><![CDATA[January]]></title><description><![CDATA[“Enjoy the little things, for one day you may look back and realize they were the big things.” Robert Brault  January 1 As it was the start…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/january/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/january/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Hi, I'm Joseph! 👋]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 16:20:47 GMT</lastBuildDate><item><title><![CDATA[Books]]></title><description><![CDATA[Coming Soon]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/books/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/books/</guid><content:encoded>&lt;p&gt;Coming Soon&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Desktop Apps]]></title><description><![CDATA[Coming Soon]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/desktop-apps/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/desktop-apps/</guid><content:encoded>&lt;p&gt;Coming Soon&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mobile Apps]]></title><description><![CDATA[Coming Soon]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/mobile-apps/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/mobile-apps/</guid><content:encoded>&lt;p&gt;Coming Soon&lt;/p&gt;</content:encoded></item><item><title><![CDATA[January]]></title><description><![CDATA[“Enjoy the little things, for one day you may look back and realize they were the big things.” Robert Brault  January 1 As it was the start…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/january/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/january/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;“Enjoy the little things, for one day you may look back and realize they were the big things.”&lt;/p&gt;
 &lt;p&gt;Robert Brault&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -23,7 +23,7 @@
 &lt;/ol&gt;
 &lt;h3&gt;January 4&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;I woke up at 6am today! I finally fixed my sleep schedule and starting the day in the morning substantially increased my productivity&lt;/li&gt;
+&lt;li&gt;I woke up at 6am today! I finally fixed my sleep schedule and starting the day in the morning substantially increased my productivity.&lt;/li&gt;
 &lt;li&gt;My mom had a high workload for her immigration business and I was able to help lessen her load by doing data entry.&lt;/li&gt;
 &lt;li&gt;Got in my exercise for the day which was cardio.&lt;/li&gt;
 &lt;/ol&gt;
@@ -53,8 +53,8 @@
 &lt;/ol&gt;
 &lt;h3&gt;January 9&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;After our family attended church, we got to have a good discussion together as a family. I really enjoy these times as it’s an opportunity where everyone in our family gets to speak and is open with one another&lt;/li&gt;
-&lt;li&gt;My friend gave me a custom mouse pad as a belated birthday gift! It was such an amazing gift as it was also One Piece themed and matched my computer set up&lt;/li&gt;
+&lt;li&gt;After our family attended church, we got to have a good discussion together as a family. I really enjoy these times as it’s an opportunity where everyone in our family gets to speak and is open with one another.&lt;/li&gt;
+&lt;li&gt;My friend gave me a custom mouse pad as a belated birthday gift! It was such an amazing gift as it was also One Piece themed and matched my computer set up.&lt;/li&gt;
 &lt;li&gt;I updated my Notion template. I’m extremely happy with how it turned out and this makes me more excited to use it on a daily basis.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;January 10&lt;/h3&gt;
@@ -85,7 +85,7 @@
 &lt;ol&gt;
 &lt;li&gt;I realized that listening to an audio book gives me an incentive to exercise more as there aren’t that many other tasks that I can do while listening.&lt;/li&gt;
 &lt;li&gt;Updated my Cold Turkey Blocker settings to reduce my distractions and help me enter a state of deep focus throughout the day.&lt;/li&gt;
-&lt;li&gt;Made a contract my friends to finish my side project before a certain deadline&lt;/li&gt;
+&lt;li&gt;Made a contract my friends to finish my side project before a certain deadline.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;January 15&lt;/h3&gt;
 &lt;ol&gt;
@@ -101,9 +101,9 @@
 &lt;/ol&gt;
 &lt;h3&gt;January 17&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Woke up late today but I was still able to finish my tasks for the day&lt;/li&gt;
-&lt;li&gt;Shared my website to my family and friends and they really liked it&lt;/li&gt;
-&lt;li&gt;Finished going through the job application process&lt;/li&gt;
+&lt;li&gt;Woke up late today but I was still able to finish my tasks for the day.&lt;/li&gt;
+&lt;li&gt;Shared my website to my family and friends and they really liked it.&lt;/li&gt;
+&lt;li&gt;Finished going through the job application process.&lt;/li&gt;
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Deep Focus]]></title><description><![CDATA[“what we choose to focus on and what we choose to ignore—plays in defining the quality of our life.” Cal Newport Before the pandemic, I used…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/deep-focus/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/deep-focus/</guid><pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;“what we choose to focus on and what we choose to ignore—plays in defining the quality of our life.”&lt;/p&gt;
 &lt;p&gt;Cal Newport&lt;/p&gt;
