@@ -5,7 +5,7 @@ module.exports = {
             name: `Joseph Nicolas`,
             summary: `Thanks for visiting my website and I hope you enjoyed it! `,
         },
-        description: `A starter blog.`,
+        description: `Hi, I'm Joseph! 👋`,
         siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
         social: {
             linkedin: `josephnicolas`,
