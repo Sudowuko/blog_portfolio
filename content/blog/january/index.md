@@ -30,7 +30,7 @@ category: "Gratitude"
 
 ### January 4
 
-1. I woke up at 6am today! I finally fixed my sleep schedule and starting the day in the morning substantially increased my productivity
+1. I woke up at 6am today! I finally fixed my sleep schedule and starting the day in the morning substantially increased my productivity.
 2. My mom had a high workload for her immigration business and I was able to help lessen her load by doing data entry. 
 3. Got in my exercise for the day which was cardio.
 
@@ -60,8 +60,8 @@ category: "Gratitude"
 
 ### January 9
 
-1. After our family attended church, we got to have a good discussion together as a family. I really enjoy these times as it’s an opportunity where everyone in our family gets to speak and is open with one another
-2. My friend gave me a custom mouse pad as a belated birthday gift! It was such an amazing gift as it was also One Piece themed and matched my computer set up
+1. After our family attended church, we got to have a good discussion together as a family. I really enjoy these times as it’s an opportunity where everyone in our family gets to speak and is open with one another.
+2. My friend gave me a custom mouse pad as a belated birthday gift! It was such an amazing gift as it was also One Piece themed and matched my computer set up.
 3. I updated my Notion template. I'm extremely happy with how it turned out and this makes me more excited to use it on a daily basis. 
 
 ### January 10
@@ -92,7 +92,7 @@ category: "Gratitude"
 
 1. I realized that listening to an audio book gives me an incentive to exercise more as there aren't that many other tasks that I can do while listening.
 2. Updated my Cold Turkey Blocker settings to reduce my distractions and help me enter a state of deep focus throughout the day. 
-3. Made a contract my friends to finish my side project before a certain deadline 
+3. Made a contract my friends to finish my side project before a certain deadline. 
 
 ### January 15
 
@@ -106,4 +106,25 @@ category: "Gratitude"
 2. Some of my cousins came over and it was a lot of fun just hanging out with them. My Dad also ordered pizza for all of us so we had a nice meal together. 
 3. My average phone screen time from last week was 29 minutes. This was probably one of the lowest screen times I've ever had. 
 
+### January 17
 
+1. Woke up late today but I was still able to finish my tasks for the day.
+2. Shared my website to my family and friends and they really liked it.
+3. Finished going through the job application process.
+
+### January 18
+
+1. Went through my geography lectures.
+2. Completed my economics practice problems.
+3. Did the laundry and cleaned my room.
+
+### January 19
+1. Completed my workout for the day and I also slightly increased the weight size for benchpress.
+2. Reached a typing speed of 110 WPM.
+3. Ended the night by playing games with my cousins.
+
+
+### January 20
+1. Solved all the problems from my economics homework set.
+2. Also finished completing my quiz today.
+3. Bought a brand new webcam with a much higher quality! 
