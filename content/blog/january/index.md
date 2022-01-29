@@ -119,12 +119,61 @@ category: "Gratitude"
 3. Did the laundry and cleaned my room.
 
 ### January 19
+
 1. Completed my workout for the day and I also slightly increased the weight size for benchpress.
 2. Reached a typing speed of 110 WPM.
 3. Ended the night by playing games with my cousins.
 
-
 ### January 20
+
 1. Solved all the problems from my economics homework set.
 2. Also finished completing my quiz today.
 3. Bought a brand new webcam with a much higher quality! 
+
+### January 21
+
+1. Helped out my younger brother and cousin film a music video.
+2. It was a little cold today so I made hot chocolate.
+3. Today was family movie night day.
+
+### January 22
+
+1. Blocked League of Legends for a week so I can focus more on school.
+2. Took a break from my habit tracker to focus on other things.
+3. Made a contract with my friends to help me wake up earlier again. 
+
+### January 23
+
+1. Completed my geography lab.
+2. Slowly catching up in my CS lectures.
+3. Vacuumed the house today.
+
+### January 24
+
+1. Woke up at 6am today!
+2. Started taking notes of book summaries from "Optimize Me."
+3. Had chicken wings for dinner. 
+
+### January 25
+
+1. Finished my economics assignment. 
+2. Went through self help book summaries
+3. After 8pm, I relaxed for the rest of the night. 
+
+### January 26
+
+1. Finished work simulation.
+2. Reviewed objects and other Python data structures.
+3. I no longer need to take naps to wake up at 6am.
+
+### January 27
+
+1. Purchased Leetcode premium!
+2. Completed my economics quiz.
+3. Exercised and practiced the piano today.
+
+### January 28
+
+1. Finished my geography quiz.
+2. Practiced more Leetcode questions.
+3. Continued helping my brother and cousin film their music video.
