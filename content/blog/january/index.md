@@ -177,3 +177,21 @@ category: "Gratitude"
 1. Finished my geography quiz.
 2. Practiced more Leetcode questions.
 3. Continued helping my brother and cousin film their music video.
+
+### January 29
+
+1. Started a new side project!
+2. Had lots of fun hanging out with my cousins today.
+3. The dinner today was from Pizza Hut
+
+### January 30
+
+1. Did some grocery shopping today with my parents.
+2. Moved in to my place at Waterloo 
+3. First day I met my roommates, and they're all super nice people.
+
+### January 31
+
+1. Had enough cooked food in the fridge so I didn't have to cook today.
+2. Slowly getting used to living on my own again.
+3. Finished my geography lab for the week.
