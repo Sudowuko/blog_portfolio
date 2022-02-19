@@ -47,8 +47,8 @@ category: "Gratitude"
 
 ### February 16
 
-1. Submitted my GEOG 271 Lab.
-2. Also submitted my GEOG 318 Lab.
+1. Submitted my GEOG 271 and GEOG 318 Labs.
+2. Made a contract with my friends to keep myself accountable. 
 3. Relaxed and play League with my cousins.
 
 ### February 17
