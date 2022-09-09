@@ -1,14 +1,22 @@
 import * as React from 'react'
 import { graphql } from 'gatsby'
 import CategoryList from '../components/category-list'
+import Layout from "../components/layout"
+import Seo from "../components/seo"
+
+
 
 const GratitudeIndex = ({data, location}) => {
   const posts = data.allMarkdownRemark.nodes.filter(post=>{return post.frontmatter.category === "Gratitude"})
+  const siteTitle = data.site.siteMetadata?.title || `Title`
 
   return (
-    <main>
-        <CategoryList location={location} data={data} posts={posts} category={"Gratitude"}/>
-    </main>
+    <Layout location={location} title={siteTitle}>
+        <Seo title="Gratitude" />
+        <CategoryList location={location} data={data} posts={posts} category={"Gratitude"}>
+        </CategoryList>
+     
+    </Layout>
     
   )
 }

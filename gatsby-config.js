@@ -7,12 +7,12 @@ module.exports = {
         },
         description: `Hi, I'm Joseph! 👋`,
         siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-        social: {
-            linkedin: `josephnicolas`,
-            email: 'josephnicolas10@gmail.com',
-            phone: '416-823-8714',
-            github: 'Sudowuko'
-        },
+        // social: {
+        //     linkedin: `josephnicolas`,
+        //     email: 'josephnicolas10@gmail.com',
+        //     phone: '416-823-8714',
+        //     github: 'Sudowuko'
+        // },
     },
     plugins: [
         `gatsby-plugin-image`,

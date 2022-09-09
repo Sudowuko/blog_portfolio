@@ -46,11 +46,11 @@ const Bio = () => {
               <p>
                 {author?.summary || null}
                 {`Feel free to follow me on `}
-                <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
+                <a href={`https://www.linkedin.com/in/josephnicolas`}>
                   Linkedin 
                 </a>
                 {' and '}
-                <a href={`https://github.com/${social?.Sudowuko || ``}`}>
+                <a href={`https://www.github.com/Sudowuko`}>
                  Github
                 </a>
                {' '} or reach out through {' '}
