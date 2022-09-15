@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import CategoryList from '../components/category-list'
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Navbar from '../components/navbar'
 
 
 
@@ -13,8 +14,10 @@ const GratitudeIndex = ({data, location}) => {
   return (
     <Layout location={location} title={siteTitle}>
         <Seo title="Gratitude" />
-        <CategoryList location={location} data={data} posts={posts} category={"Gratitude"}>
-        </CategoryList>
+        <Navbar></Navbar>
+        <h2>Gratitude Testing</h2>
+        {/* <CategoryList location={location} data={data} posts={posts} category={"Gratitude"}>
+        </CategoryList> */}
      
     </Layout>
     

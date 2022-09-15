@@ -20,11 +20,11 @@ const BlogIndex = ({ location, data }) => {
       <p> I'm opened to work in the <strong>Winter 2023 co-op term</strong> so please let me know if you have an opportunity for me to learn and succeed.</p>
       <p> I would love to get involved in <strong>web design, game development </strong> or other <strong> programming related</strong> positions.</p>
       <h5>Projects</h5>
-      ➡️ Blog and Portfolio (React, JS, CSS) - Jan 2022
-      ➡️ Memory Squares Game (Python) - Oct 2021 <br></br>
+      ➡️ Blog and Portfolio (React, JS, CSS) - Jan 2022 <br></br>
+      ➡️ Memory Squares Game (Python) - Oct 2021 <br></br> 
       <h5>Work Experience</h5>
-      ➡️ Software Devloper 📍 <a href="https://www.opentext.com/">OpenText</a>{'   '} May 2022 - Aug 2022 <br></br>
-      ➡️ GIS Data Analyst 📍 Department of National Defence, MCE. Sept 2021 - Dec 2021  
+      ➡️ Software Devloper 📍 <a href="https://www.opentext.com/">OpenText Corp.</a>{'   '} May 2022 - Aug 2022 <br></br>
+      ➡️ GIS Data Analyst 📍 Department of National Defence, MCE. Sept 2021 - Dec 2021<br></br>
       ➡️ Technical Writer 📍 <a href="https://www.gofleet.com/">GoFleet Corp.</a>{'   '} Jan 2021 - Apr 2021 <br></br>
       <h5>Hobbies and Interests</h5>
       ➡️ Reading self-help books 📖 <br></br>

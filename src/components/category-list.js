@@ -53,9 +53,7 @@ const CategoryIndex = ({ data, location, posts, category }) => {
                    <br></br>
                 </section>
               </article>
-              
             </li>
-           
           )
         })}
         <hr />

@@ -19,7 +19,10 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            linkedin
+            email
+            phone
+            github
           }
         }
       }
@@ -46,11 +49,11 @@ const Bio = () => {
               <p>
                 {author?.summary || null}
                 {`Feel free to follow me on `}
-                <a href={`https://www.linkedin.com/in/josephnicolas`}>
+                <a href={`https://www.linkedin.com/in/${social?.linkedin}`}>
                   Linkedin 
                 </a>
                 {' and '}
-                <a href={`https://www.github.com/Sudowuko`}>
+                <a href={`https://www.github.com/${social.github}`}>
                  Github
                 </a>
                {' '} or reach out through {' '}
