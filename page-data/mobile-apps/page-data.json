@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mobile-apps/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Blog and Portfolio"}},"markdownRemark":{"id":"69e1176e-54ca-5974-af45-45b4b9806abe","excerpt":"Coming Soon","html":"<p>Coming Soon</p>","frontmatter":{"title":"Mobile Apps","date":null,"description":"A dive into my favourite apps I love using on a daily basis (COMING SOON)","category":"Resources"}},"previous":{"fields":{"slug":"/desktop-apps/"},"frontmatter":{"title":"Desktop Apps","category":"Resources"}},"next":null},"pageContext":{"id":"69e1176e-54ca-5974-af45-45b4b9806abe","previousPostId":"30b4596a-ddb8-5692-a6cf-50e303042123","nextPostId":null}},
-    "staticQueryHashes": ["2841359383","3257411868"]}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Blog and Portfolio"}},"markdownRemark":{"id":"085ea625-f215-5c72-b292-d0cc709d5138","excerpt":"Coming Soon","html":"<p>Coming Soon</p>","frontmatter":{"title":"Mobile Apps","date":null,"description":"A dive into my favourite apps I love using on a daily basis (COMING SOON)","category":"Resources"}},"previous":{"fields":{"slug":"/desktop-apps/"},"frontmatter":{"title":"Desktop Apps","category":"Resources"}},"next":null},"pageContext":{"id":"085ea625-f215-5c72-b292-d0cc709d5138","previousPostId":"9421f32a-a9cd-5dbb-b19c-b05783b99523","nextPostId":null}},
+    "staticQueryHashes": ["1022554905","1882146087"]}

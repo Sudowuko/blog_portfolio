@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/books/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Blog and Portfolio"}},"markdownRemark":{"id":"5bd3c2e6-c9d3-5a88-a731-f5a37374102d","excerpt":"Coming Soon","html":"<p>Coming Soon</p>","frontmatter":{"title":"Books","date":null,"description":"Books that changed my life (COMING SOON)","category":"Resources"}},"previous":null,"next":{"fields":{"slug":"/desktop-apps/"},"frontmatter":{"title":"Desktop Apps","category":"Resources"}}},"pageContext":{"id":"5bd3c2e6-c9d3-5a88-a731-f5a37374102d","previousPostId":null,"nextPostId":"30b4596a-ddb8-5692-a6cf-50e303042123"}},
-    "staticQueryHashes": ["2841359383","3257411868"]}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Blog and Portfolio"}},"markdownRemark":{"id":"3b389188-b97f-5d85-bec1-1b6ac4f7c685","excerpt":"Coming Soon","html":"<p>Coming Soon</p>","frontmatter":{"title":"Books","date":null,"description":"Books that changed my life (COMING SOON)","category":"Resources"}},"previous":null,"next":{"fields":{"slug":"/desktop-apps/"},"frontmatter":{"title":"Desktop Apps","category":"Resources"}}},"pageContext":{"id":"3b389188-b97f-5d85-bec1-1b6ac4f7c685","previousPostId":null,"nextPostId":"9421f32a-a9cd-5dbb-b19c-b05783b99523"}},
+    "staticQueryHashes": ["1022554905","1882146087"]}
