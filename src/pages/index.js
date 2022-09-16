@@ -5,35 +5,45 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Navbar from "../components/navbar"
+import ReactMarkdown from 'react-markdown'
 
 const BlogIndex = ({ location, data }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
+  const homeContent = `
+  ## About Me
+
+  Hi, I'm Joseph 👋
+
+  I'm opened to work in the **Winter 2023 co-op term** so please let me know if you have an opportunity for me to learn and succeed.
+  
+  I would love to get involved in **web design, game development** or other **software related** positions
+  
+  ##### Projects
+
+  ➡️ Blog and Portfolio (React, JS, CSS) - Jan 2022  
+  ➡️ Memory Squares Game (Python) - Oct 2021
+
+  ##### Work Experience
+
+  ➡️ Software Developer 📍 [OpenText Corp.](https://www.opentext.com/) May 2022 - Aug 2022  
+  ➡️ GIS Data Analyst 📍 Dept of National Defence, MCE. Sept 2021 - Dec 2021  
+  ➡️ Technical Writer 📍 [GoFleet Corp](https://www.gofleet.com/") Jan 2021 - Apr 2021
+
+  ##### Hobbies and Interest
+
+  ➡️ Reading self-help books 📖  
+  ➡️ Studying the Tagalog language 🇵🇭  
+  ➡️ Improving my typing speed ⌨
+
+  ---
+
+
+  `;
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Home" />
       <Navbar></Navbar>
-      <h2>About Me</h2> 
-      <p>Hi, I'm Joseph! 👋 </p>
-      <p>I'm a third year student from the University of Waterloo, 
-      currently pursuing a Bachelor in Environmental Studies, {' '}
-      <a href="https://uwaterloo.ca/geography-environmental-management/undergraduate/geomatics">Geomatics</a> {' '} with a double minor in Computing and Economics.</p> 
-      <p> I'm opened to work in the <strong>Winter 2023 co-op term</strong> so please let me know if you have an opportunity for me to learn and succeed.</p>
-      <p> I would love to get involved in <strong>web design, game development </strong> or other <strong> programming related</strong> positions.</p>
-      <h5>Projects</h5>
-      ➡️ Blog and Portfolio (React, JS, CSS) - Jan 2022 <br></br>
-      ➡️ Memory Squares Game (Python) - Oct 2021 <br></br> 
-      <h5>Work Experience</h5>
-      ➡️ Software Devloper 📍 <a href="https://www.opentext.com/">OpenText Corp.</a>{'   '} May 2022 - Aug 2022 <br></br>
-      ➡️ GIS Data Analyst 📍 Department of National Defence, MCE. Sept 2021 - Dec 2021<br></br>
-      ➡️ Technical Writer 📍 <a href="https://www.gofleet.com/">GoFleet Corp.</a>{'   '} Jan 2021 - Apr 2021 <br></br>
-      <h5>Hobbies and Interests</h5>
-      ➡️ Reading self-help books 📖 <br></br>
-      ➡️ Studying the Tagalog language 🇵🇭 <br></br> 
-      ➡️ Improving my typing speed ⌨
-      <br></br>
-      <br></br>
-      <hr />
-      <br></br>
+      <ReactMarkdown>{homeContent}</ReactMarkdown>
       <Bio />
     </Layout>
   )
