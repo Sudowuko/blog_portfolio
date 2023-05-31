@@ -14,17 +14,18 @@ const BlogIndex = ({ location, data }) => {
 
   Hi, I'm Joseph 👋
 
-  I'm opened to work in the **Winter 2023 co-op term** so please let me know if you have an opportunity for me to learn and succeed.
+  I'm opened to work in the **Fall 2023 co-op term** so please let me know if you have an opportunity for me to learn and succeed.
   
   I would love to get involved in **web design, game development** or other **software related** positions
   
   ##### Projects
-
+  - Shared Habits Tracker (Discord JS, Firebase) - August 2022 - Present
   ➡️ Blog and Portfolio (React, JS, CSS) - Jan 2022  
   ➡️ Memory Squares Game (Python) - Oct 2021
 
   ##### Work Experience
 
+  - Geospatial Data Analyst 📍 [Arup](https://www.arup.com/) Jan 2023 - Aug 2023  
   ➡️ Software Developer 📍 [OpenText Corp.](https://www.opentext.com/) May 2022 - Aug 2022  
   ➡️ GIS Data Analyst 📍 Dept of National Defence, MCE. Sept 2021 - Dec 2021  
   ➡️ Technical Writer 📍 [GoFleet Corp](https://www.gofleet.com/") Jan 2021 - Apr 2021
